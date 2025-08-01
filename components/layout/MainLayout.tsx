@@ -1,0 +1,1 @@
+// El contenido del archivo MainLayout.tsx
